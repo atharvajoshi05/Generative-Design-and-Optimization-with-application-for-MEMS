@@ -1,8 +1,6 @@
 [ToPy Problem Definition File v2007]
 
-# Author: William Hunter
-# 'Classic' 40x40 2d plate, as per Ole Sigmund's 91 line code,
-# Matlab command: toph(40, 40, 0.4, 3.0, 1.2)
+
 
 PROB_TYPE  : heat
 PROB_NAME  : heat_2d_reci
