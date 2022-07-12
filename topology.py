@@ -1,12 +1,6 @@
-﻿"""
-# =============================================================================
-# A class to optimise the topology of a design domain for defined boundary
-# conditions. Data is read from an input file, see 'examples' directory.
-#
-# Author: William Hunter
-# Copyright (C) 2008, 2015, William Hunter.
-# =============================================================================
-"""
+
+# A class to optimise the topology of a design domain for defined boundary conditions. 
+
 from __future__ import division 
 from string import lower
 import numpy as np
