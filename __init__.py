@@ -1,9 +1,3 @@
-﻿"""
-# ==============================================================================
-# ToPy -- Topology optimization with Python.
-# ==============================================================================
-"""
-
 from .topology import *
 from .visualisation import *
 from .elements import *
