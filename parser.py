@@ -1,11 +1,6 @@
-﻿"""
-# =============================================================================
+
 # Parse a ToPy problem definition (TPD) file to a Python dictionary.
-#
-# Author: William Hunter
-# Copyright (C) 2008, 2015, William Hunter.
-# =============================================================================
-"""
+
 
 from string import lower
 import numpy as np
