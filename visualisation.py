@@ -1,11 +1,5 @@
-﻿"""
-# =============================================================================
 # Functions in order to visualise 2D and 3D NumPy arrays.
-#
-# Author: William Hunter
-# Copyright (C) 2008, 2015, 2016, 2017 William Hunter.
-# =============================================================================
-"""
+
 
 from __future__ import division
 
