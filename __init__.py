@@ -5,7 +5,7 @@ from .topy_logging import *
 from .optimisation import *
 
 __version__ = "0.4.0"
-__author__  = "William Hunter <whunter.za at gmail dot com>"
+__author__  = "Atharva Joshi"
 
 __all__ = (
 	topology.__all__ +
